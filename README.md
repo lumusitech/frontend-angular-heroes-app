@@ -16,9 +16,9 @@
 
 3. run the app
 
-```sh
-ng serve -o
-```
+   ```sh
+   ng serve -o
+   ```
 
 ## Development Dependencies
 
