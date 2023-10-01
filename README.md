@@ -1,6 +1,20 @@
 # HeroesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+## after clone, run
+
+```sh
+pnpm i
+```
+
+## Development Dependencies
+
+- [git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter): A lightweight, independent, 0 configurations and joyful git commit message linter.
+  👀 Watching your every git commit message INSTANTLY 🚀.
+
+## Production Dependencies
+
+- [angular material](https://material.angular.io/): Material Design components for Angular
+- [prime flex](https://www.primefaces.org/primeflex/): PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well.
 
 ## Development server
 
