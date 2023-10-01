@@ -11,6 +11,8 @@ pnpm i
 - [git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter): A lightweight, independent, 0 configurations and joyful git commit message linter.
   👀 Watching your every git commit message INSTANTLY 🚀.
 
+- [json-server](https://www.npmjs.com/package/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
 ## Production Dependencies
 
 - [angular material](https://material.angular.io/): Material Design components for Angular
